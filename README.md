@@ -20,4 +20,4 @@ Analyzed wholesale motorcycle parts sales to evaluate monthly revenue performanc
 3. `v_monthly_wholesale` – aggregated reporting view used in BI
 
 ## Dashboard Preview
-![Executive Overview](dashboard_screenshot.png)
+![Executive Overview](sales_analytics.pbix)
